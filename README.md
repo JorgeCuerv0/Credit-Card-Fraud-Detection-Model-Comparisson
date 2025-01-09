@@ -65,8 +65,11 @@ Fraud detection is a critical application of machine learning in the finance and
 | Neural Network      | 87%       | 78%    | 82%      | 0.97    |
 | XGBoost             | 25%       | 87%    | 39%      | 0.98    |
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/JorgeCuerv0/Credit-Card-Fraud-Detection-Model-Comparisson.git
-   ```
+## Future Work
+Explore other advanced models such as Random Forest and Support Vector Machines.
+Implement techniques to handle class imbalance more effectively.
+Perform hyperparameter tuning to further improve model performance.
+
+## Acknowledgements
+The dataset used for this project is sourced from Kaggle.
+Special thanks to the developers of the libraries used in this project.
