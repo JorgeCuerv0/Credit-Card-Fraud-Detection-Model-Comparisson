@@ -71,5 +71,5 @@ Implement techniques to handle class imbalance more effectively.
 Perform hyperparameter tuning to further improve model performance.
 
 ## Acknowledgements
-The dataset used for this project is sourced from Kaggle.
+The Credit Card Fraud Detection dataset used for this project is sourced from Kaggle.
 Special thanks to the developers of the libraries used in this project.
